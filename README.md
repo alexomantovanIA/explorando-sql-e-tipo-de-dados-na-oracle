@@ -59,6 +59,12 @@ Documentação do Dicionário de Dados: O projeto inclui um dicionário de dados
 
 Diagrama do Modelo Relacional: Um diagrama do modelo relacional foi incluído para ilustrar visualmente os relacionamentos entre as tabelas principais do banco de dados, ajudando na compreensão da arquitetura do sistema e seus relacionamentos chave.
 
+Diagrama Entidade Relacionamento (MER)
+
+<p align="center">
+<a href= ""><img src="assets/diagrama-entidade-relacionamento.png" alt="Diagrama Entidade Relacionamento" border="0" width=40% height=40%></a>
+</p>
+
 Funções Principais
 
 criar_tabelas(): Executa o código SQL para criar todas as tabelas do banco de dados, definindo chaves primárias, estrangeiras e restrições.
